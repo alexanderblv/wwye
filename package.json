@@ -1,0 +1,18 @@
+{
+    "name": "what-would-you-encrypt",
+    "license": "MIT License",
+    "type": "module",
+    "scripts": {
+        "rent": "bun run src/rent.ts"
+    },
+    "dependencies": {
+        "seismic-viem": "file:/Users/lyronctk/Documents/projects/seismic/seismic-client/packages/seismic-viem",
+        "viem": "^2.22.3"
+    },
+    "devDependencies": {
+        "@types/node": "^22.7.6",
+        "typescript": "^5.6.3",
+        "@trivago/prettier-plugin-sort-imports": "^5.2.1",
+        "prettier": "^3.4.2"
+    }
+}
