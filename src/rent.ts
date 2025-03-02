@@ -37,7 +37,7 @@ const MOCK_AMOUNT = 1000;
   console.log("- [1] Gathering rent details...");
   console.log({ landlord: MOCK_LANDLORD, amount: MOCK_AMOUNT });
 
-  console.log("\n- [2] Constructing rent transaction...");
+  console.log("\n- [2] Constructing transaction...");
   console.log(prune(plaintextTx));
 
   console.log("\n- [3] Encrypting...");
