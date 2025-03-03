@@ -6,6 +6,7 @@
         "rent": "bun run src/rent.ts"
     },
     "dependencies": {
+        "chalk": "^5.4.1",
         "seismic-viem": "file:/Users/lyronctk/Documents/projects/seismic/seismic-client/packages/seismic-viem",
         "viem": "^2.22.3"
     },
