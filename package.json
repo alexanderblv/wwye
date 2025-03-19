@@ -3,7 +3,8 @@
     "license": "MIT License",
     "type": "module",
     "scripts": {
-        "rent": "bun run src/rent.ts"
+        "rent": "bun run src/rent.ts",
+        "payroll": "bun run src/payroll.ts"
     },
     "dependencies": {
         "chalk": "^5.4.1",
